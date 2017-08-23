@@ -21,9 +21,14 @@
 Each team will be provided with a "vPod" environment that consists of the following:
   * 1 x vCenter Server Appliance (vSphere 6.5 Update 1)
   * 3 x Nested ESXi hosts (vSphere 6.5 Update 1)
-  * vSAN will be the underlying storage (vSAN 6.6.1)
+  * vSAN will be the underlying storage (vSAN 6.6.1) within the Nested enviornment
+  * VCSA is configured as 2 vCPU & 8GB memory
+  * Each ESXi host will have 10GB memory
+  * There is ~75GB of usable storage within the vPod (which can be expanded if required)
+  * For additional product deployments, this will happen outside of the vPod (aka Layer1 on the phyiscal vSAN Cluster)
+  * More details will be provided at the Hackathon
 
-In addition, the following vSphere Content Library will be made available to all teams to use during the Hackathon:
+In addition, the following vSphere Content Library will be made available to all teams to use during the Hackathon to deploy additional solutions that are needed:
 
 **Content Library Name:** Hackathon-Stuff
 
