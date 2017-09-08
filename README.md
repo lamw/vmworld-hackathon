@@ -2,6 +2,8 @@
 
 * [Resources](#resources)
 * [Training Sessions](#training-sessions)
+* [VMworld US Hackathon Pictures](#vmworld-us-hackathon-Pictures)
+* [VMworld EU Hackathon Pictures](#vmworld-us-hackathon-Pictures)
 * [Environment Details](#environment-details)
 
 ## Resources
@@ -21,8 +23,8 @@
 
 * **Getting started with Clarity [VMTN6719U]**
   * Video: [https://www.youtube.com/watch?v=8J4b_GqHN90](https://www.youtube.com/watch?v=8J4b_GqHN90)
-  * Slide: [http://git.io/vmworld-clarity](http://git.io/vmworld-clarity)
-  * Github: [http://bit.ly/vmworld-clarity](http://bit.ly/vmworld-clarity)
+  * Slide: [http://bit.ly/vmworld-clarity](http://bit.ly/vmworld-clarity)
+  * Github: [http://git.io/vmworld-clarity](http://git.io/vmworld-clarity)
 * **Integrating VMware API’s and Amazon Echo (Alexa) [VMTN6721U]**
   * Slide: [Hackathon-Training-VMTN6721U.pptx](https://github.com/lamw/vmworld-hackathon/raw/master/Training/Hackathon-Training-VMTN6721U.pptx)
   * Github: [https://github.com/codyde/Hackathon-Training](https://github.com/codyde/Hackathon-Training)
@@ -31,6 +33,14 @@
 * **Getting started with the vSphere Automation SDK for Python [VMTN6720U]**
   * Slide: [Hackathon-Training-VMTN6720U.pptx](https://github.com/lamw/vmworld-hackathon/raw/master/Training/Hackathon-Training-VMTN6720U.pptx)
   * Github: [https://vmware.github.io/vsphere-automation-sdk-python/](https://vmware.github.io/vsphere-automation-sdk-python/)
+
+## VMworld US Hackathon Pictures
+
+* [https://github.com/lamw/vmworld-hackathon/tree/master/2017-USA-Pictures](https://github.com/lamw/vmworld-hackathon/tree/master/2017-USA-Pictures)
+
+## VMworld EU Hackathon Pictures
+
+* COMING SOON
 
 ## Environment Details
 
