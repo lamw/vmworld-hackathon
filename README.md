@@ -2,8 +2,8 @@
 
 * [Resources](#resources)
 * [Training Sessions](#training-sessions)
-* [VMworld US Hackathon Pictures](#vmworld-us-hackathon-Pictures)
-* [VMworld EU Hackathon Pictures](#vmworld-us-hackathon-Pictures)
+* [VMworld US Hackathon Pictures](#vmworld-us-hackathon-pictures)
+* [VMworld EU Hackathon Pictures](#vmworld-us-hackathon-pictures)
 * [Environment Details](#environment-details)
 
 ## Resources
