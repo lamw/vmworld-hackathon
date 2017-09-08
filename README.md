@@ -24,13 +24,13 @@
   * Slide: [http://git.io/vmworld-clarity](http://git.io/vmworld-clarity)
   * Github: [http://bit.ly/vmworld-clarity](http://bit.ly/vmworld-clarity)
 * **Integrating VMware API’s and Amazon Echo (Alexa) [VMTN6721U]**
-  * Slide: [Hackathon-Training-VMTN6721U.pptx](Training/Hackathon-Training-VMTN6721U.pptx)
+  * Slide: [Hackathon-Training-VMTN6721U.pptx](https://github.com/lamw/vmworld-hackathon/raw/master/Training/Hackathon-Training-VMTN6721U.pptx)
   * Github: [https://github.com/codyde/Hackathon-Training](https://github.com/codyde/Hackathon-Training)
 * **Open Source Projects for Enterprise Cloud Native Applications [VMTN6718U]**
-  * Slide: [Hackathon-Training-VMTN6718U.pdf](Training/Hackathon-Training-VMTN6718U.pdf)
+  * Slide: [Hackathon-Training-VMTN6718U.pdf](https://github.com/lamw/vmworld-hackathon/raw/master/Training/Hackathon-Training-VMTN6718U.pdf)
 * **Getting started with the vSphere Automation SDK for Python [VMTN6720U]**
-  * Slide: [Hackathon-Training-VMTN6720U.pptx](Training/Hackathon-Training-VMTN6720U.pptx)
-  * Github: [https://github.com/codyde/Hackathon-Training](https://github.com/codyde/Hackathon-Training)
+  * Slide: [Hackathon-Training-VMTN6720U.pptx](https://github.com/lamw/vmworld-hackathon/raw/master/Training/Hackathon-Training-VMTN6720U.pptx)
+  * Github: [https://vmware.github.io/vsphere-automation-sdk-python/](https://vmware.github.io/vsphere-automation-sdk-python/)
 
 ## Environment Details
 
