@@ -40,7 +40,7 @@
 
 ## VMworld EU Hackathon Pictures
 
-* COMING SOON
+* [https://github.com/lamw/vmworld-hackathon/tree/master/2017-BCN-Pictures](https://github.com/lamw/vmworld-hackathon/tree/master/2017-BCN-Pictures)
 
 ## Environment Details
 
