@@ -1,10 +1,16 @@
 # VMworld Hackathon
 
+* [Highlights](#highlights)
 * [Resources](#resources)
 * [Training Sessions](#training-sessions)
 * [VMworld US Hackathon Pictures](#vmworld-us-hackathon-pictures)
 * [VMworld EU Hackathon Pictures](#vmworld-us-hackathon-pictures)
 * [Environment Details](#environment-details)
+* [vSphere Web Client Customization](#vsphere-web-client-customization)
+
+## Highlights
+
+  * [VMworld Hackathon 2017 US/Europe Highlights](http://www.virtuallyghetto.com/2017/09/vmworld-hackathon-2017-highlights.html)
 
 ## Resources
 
@@ -84,3 +90,11 @@ In addition, the following vSphere Content Library will be made available to all
 | Nested_ESXi6.0u3_Appliance_Template_v1.0 | OVF  |
 | Nested_ESXi6.5d_Appliance_Template_v1.0  | OVF  |
 | Nested_ESXi6.5u1_Appliance_Template_v1.0 | OVF  |
+
+## vSphere Web Client Customization
+
+Download the [websso.war](vSphere-Web-Client-2017-Customization/websso.war) package copy that to the vCenter Server Appliance (VCSA) located under **/usr/lib/vmware-sso/vmware-sts/webapps**. If you wish to create your own customization based on this theme, you can following this blog post [here](http://www.virtuallyghetto.com/2017/09/vmworld-hackathon-vsphere-client-login-ui-theme.html)
+
+**Note:** The websso.war has been created specifically for a vSphere 6.5 Update 1 environment. Simply copying this to earlier version of vSphere probably will not work and you will need to use follow this blog post [here](http://www.virtuallyghetto.com/2017/09/vmworld-hackathon-vsphere-client-login-ui-theme.html) to create the customization for earlier versions of vSphere.
+
+![](vSphere-Web-Client-2017-Customization/VMworldHackathon-WebClientTheme.gif)
